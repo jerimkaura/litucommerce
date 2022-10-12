@@ -1,4 +1,4 @@
-### Litudian E-Commerce UI mock
+### Litu
 Trying out E-Commerce platform using Jetpack compose
 
 #### Project characteristics
