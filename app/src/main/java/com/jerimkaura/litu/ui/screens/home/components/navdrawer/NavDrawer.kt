@@ -66,7 +66,7 @@ fun DrawerBody(
                     text = navDrawerItem.title,
                     modifier = Modifier
                         .weight(1f)
-                        .padding(vertical = 5.dp)
+                        .padding(vertical = 10.dp)
                 )
             }
 
