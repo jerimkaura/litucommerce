@@ -48,11 +48,11 @@ the libraries are in the stable version.
 
 #### Light Theme
 
-Login Screen           |                    Register Screen                     |                   Drawer                   |
-:-------------------------:|:------------------------------------------------------:|:------------------------------------------:|
-![Onboarding Screen 1  ](images/login-light.png)  |    ![  Register Screen ](images/register-light.png)    |     ![Drawer](images/drawer-light.png)     | 
-Home screen          |                    Product Details                     |                 Favourites                 |
-![Home screen  ](images/home-light.png)  | ![ Product Details](images/products-details-light.png) | ![Favourites](images/favourites-light.png) | 
+Login Screen           |                    Register Screen                    |                   Drawer                   |
+:-------------------------:|:-----------------------------------------------------:|:------------------------------------------:|
+![Onboarding Screen 1  ](images/login-light.png)  |   ![  Register Screen ](images/register-light.png)    |     ![Drawer](images/drawer-light.png)     | 
+Home screen          |                    Product Details                    |                 Favourites                 |
+![Home screen  ](images/home-light.png)  | ![ Product Details](images/product-details-light.png) | ![Favourites](images/favourites-light.png) | 
 
 #### Dark Theme
 Login Screen           |                 Register Screen                  |                   Drawer                   |
