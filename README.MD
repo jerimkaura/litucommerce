@@ -30,8 +30,6 @@ the libraries are in the stable version.
           Performs various actios when lifecycle state changes
         * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores
           and manages UI-related data
-    * [Room](https://developer.android.com/training/data-storage/room) - Persists data fetched from the API
-    * [View Pager 2](https://developer.android.com/guide/navigation/navigation-swipe-view-2) - For creating scwipable screens like when onboarding
     * [Retrofit](https://github.com/square/retrofit) for making network calls.
 * Architecture
     * [MVVM](https://developer.android.com/jetpack/guide?gclid=CjwKCAiAvaGRBhBlEiwAiY-yMLJgFw8dtzM8r78wKMlnykKhTDwh5vx4ZOGqGBbXQ8PEFlYsS_b_oBoCRGoQAvD_BwE&gclsrc=aw.ds)
@@ -42,7 +40,7 @@ the libraries are in the stable version.
 #### Getting started
 
 1. Android Studio -> File -> New -> From Version control -> Git
-2. Enter `https://github.com/jerimkaura/GoT.git` into URL field
+2. Enter `https://github.com/jerimkaura/Litu.git` into URL field
 
 ### Application screenshots
 
