@@ -9,8 +9,8 @@ This project brings to table set of best practices, tools, and solutions:
 * 100% Kotlin
 * Model-View-View Model Architecture
 * Dependency Injection
-* Material design
-* Room local persistence
+* Material UI design
+* Room local database for persistence
 * Network Bound Resource
 * Light Theme and Dark Theme
 
