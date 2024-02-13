@@ -16,7 +16,7 @@ This project brings to table set of best practices, tools, and solutions:
 
 #### Tech-stack
 
-This project takes advantage of many popular libraries and tools of the Android ecosystem. Most of
+This project takes advantage of popular libraries and tools of the Android ecosystem. Most of
 the libraries are in the stable version.
 
 * Tech-stack
